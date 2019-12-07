@@ -6,7 +6,7 @@ public class HelloWorld {
 		
 		// test ют╢о╢ы. test 23   test 5
 		
-		
+		//test 112
 	}
 
 }
