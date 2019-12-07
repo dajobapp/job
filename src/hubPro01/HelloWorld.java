@@ -7,6 +7,7 @@ public class HelloWorld {
 		// test ют╢о╢ы. test 23  5656
 		  //335533         
 		//121212
+		//as/fas
 	}
 
 }
