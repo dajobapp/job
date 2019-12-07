@@ -10,6 +10,8 @@ public class HelloWorld {
 		// test 3 ют╢о╢ы.
 		
 		
+		// test11
+		
 	}
 
 }
