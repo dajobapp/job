@@ -14,7 +14,10 @@ public class HelloWorld {
 		//2222
 		//sfsdfsdf  ぉぉぉ
 		//asf ぞぞぞ
-		///ぞぞぞ
+		///ぞぞぞ kkk
+		
+		
+		
 	}
 
 }
