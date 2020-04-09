@@ -4,7 +4,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		//test 2
 		
-		// test 占쌉니댐옙. test 23  5656
+		// test �뜝�뙃�땲�뙋�삕. test 23  5656
 		  //335533         
 		//121212
 		//as/fas/ sdfsadfsafa  jjj
@@ -12,14 +12,14 @@ public class HelloWorld {
 		
 		//asfsdfsadf
 		//2222
-		//sfsdfsdf  占쏙옙占쏙옙占쏙옙
-		//asf 占쏙옙占쏙옙占쏙옙
-		///占쏙옙占쏙옙占쏙옙 kkk   �뀤�뀤�뀤 �뀪�뀪�뀪y=uuu
+		//sfsdfsdf  �뜝�룞�삕�뜝�룞�삕�뜝�룞�삕
+		//asf �뜝�룞�삕�뜝�룞�삕�뜝�룞�삕
+		///�뜝�룞�삕�뜝�룞�삕�뜝�룞�삕 kkk   占쎈�ㅿ옙�ㅿ옙�� 占쎈�わ옙�わ옙�챱=uuu
 		///nnn
 		
-		//ttt   rr bbb ㅎㅎㅎ
+		//ttt   rr bbb �뀕�뀕�뀕
 		
-		
+		hjg
 	}
 
 }
