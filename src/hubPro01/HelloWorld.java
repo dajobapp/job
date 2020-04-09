@@ -4,7 +4,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		//test 2
 		
-		// test ÀÔ´Ï´Ù. test 23  5656
+		// test ï¿½Ô´Ï´ï¿½. test 23  5656
 		  //335533         
 		//121212
 		//as/fas/ sdfsadfsafa  jjj
@@ -12,8 +12,10 @@ public class HelloWorld {
 		
 		//asfsdfsadf
 		//2222
-		//sfsdfsdf  ¤©¤©¤©
-		//asf ¤¾¤¾¤¾
+		//sfsdfsdf  ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		//asf ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+		    
+		test
 	}
 
 }
